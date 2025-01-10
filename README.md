@@ -16,9 +16,3 @@
 Desenvolver uma página de blog simples e funcional, reforçando boas práticas de desenvolvimento front-end e aplicando conceitos de design e acessibilidade.
 
 ---
-
-## 🛠️ Como Visualizar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/danieleksantos/Projeto-de-Estudo__blog-estudos-HTML.git
